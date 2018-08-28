@@ -66,7 +66,7 @@ if ($files) {
 		#duck_full_link {
 			max-width: calc(100% - 240px);
 			max-height: 100%;
-            background: transparent url('http://www.randomduck.tk/images/<?= $random_duck_index ?>.jpg') 0 0/contain no-repeat;
+            background: transparent url('http://www.randomduck.tk/images/<?=$random_duck_index?>.jpg') 0 0/contain no-repeat;
 			margin: 10px;
 		}
         #duck_img_link {
