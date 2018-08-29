@@ -94,7 +94,7 @@ if ($files) {
 	</div>
 
 	<a href="http://www.randomduck.tk/images/?i=<?= $random_duck_index ?>" id="duck_full_link">
-		<img src="http://www.randomduck.tk/quack<?= $random_duck_index ?>.jpg" alt="" title="" style="visibility: hidden;" id="duck_img_link" />
+		<img src="http://www.randomduck.tk/images/<?= $random_duck_index ?>.jpg" alt="" title="" style="visibility: hidden;" id="duck_img_link" />
 	</a>
 
     <div id="footer">
